@@ -1,7 +1,6 @@
 # comprehensive-analysis
 
-Team lead url:
-TEAM LEAD
+Team leader url:
 
 DURGADHARSHINI.M
 https://prod-apsoutheast-a.online.tableau.com/#/site/durgadharshinim12yp/home 
